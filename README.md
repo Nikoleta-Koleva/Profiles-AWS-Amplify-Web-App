@@ -1,6 +1,6 @@
 # React, Vite and AWS Amplify web app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project contains a React + Vite template, with the minimal setup required to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
